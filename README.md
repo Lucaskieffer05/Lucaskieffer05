@@ -33,5 +33,4 @@
 ![PowerDesigner](https://img.shields.io/badge/-PowerDesigner-%230071A3?style=flat-square)
 
 #### Operating Systems
-![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
