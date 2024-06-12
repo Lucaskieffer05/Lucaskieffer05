@@ -1,4 +1,4 @@
-## Hi, I'm Lucas Kieffer! :computer:
+## Hi, I'm Lucas Kieffer Advanced student in Informatics Engineering! :computer:
 
 :computer: Advanced student in Informatics Engineering living in Santa Fe, Argentina.
 
