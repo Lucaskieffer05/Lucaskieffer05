@@ -30,7 +30,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-%235C2D91?style=flat-square&logo=visual-studio&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![MatLab](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![MatLab](http://img.shields.io/badge/-MatLab-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![PowerDesigner](https://img.shields.io/badge/-PowerDesigner-%230071A3?style=flat-square)
 
 #### Operating Systems
